@@ -1,0 +1,57 @@
+Prodi,Kode_Fakultas,Kode_Prodi,Jenjang,Fakultas
+Pendidikan Bahasa Indonesia,77,71,S2,Pascasarjana
+Teknologi Pendidikan,77,72,S2,Pascasarjana
+Hukum,77,73,S2,Pascasarjana
+Magister Akuntansi,77,74,S2,Pascasarjana
+Magister Administrasi Publik,77,75,S2,Pascasarjana
+Magister Manajemen,77,76,S2,Pascasarjana
+Pendidikan Bahasa Inggris,77,77,S2,Pascasarjana
+Pendidikan Matematika,77,78,S2,Pascasarjana
+Ilmu Pertanian,77,79,S2,Pascasarjana
+Teknik Kimia,77,80,S2,Pascasarjana
+Ilmu Komunikasi,77,81,S2,Pascasarjana
+Pendidikan (S3),77,82,S3,Pascasarjana
+Hukum,11,11,S1,Hukum
+Pendidikan Nonformal,22,21,S1,FKIP
+Pendidikan Bahasa Indonesia,22,22,S1,FKIP
+Pendidikan Bahasa Inggris,22,23,S1,FKIP
+Pendidikan Biologi,22,24,S1,FKIP
+Pendidikan Matematika,22,25,S1,FKIP
+Pendidikan Guru Sekolah Dasar,22,27,S1,FKIP
+Pendidikan Guru Pendidikan Anak Usia Dini,22,28,S1,FKIP
+Pendidikan Fisika,22,80,S1,FKIP
+Pendidikan IPA,22,81,S1,FKIP
+Pendidikan Kimia,22,82,S1,FKIP
+Pendidikan (Vokasional) Teknik Elektro,22,83,S1,FKIP
+Pendidikan (Vokasional) Teknik Mesin,22,84,S1,FKIP
+Bimbingan dan Konseling,22,85,S1,FKIP
+Pendidikan Pancasila dan Kewarganegraan,22,86,S1,FKIP
+Pendidikan Khusus,22,87,S1,FKIP
+Pendidikan Sejarah,22,88,S1,FKIP
+Pendidikan Seni Pertunjukan,22,89,S1,FKIP
+Pendidikan Sosiologi,22,90,S1,FKIP
+Teknik Mesin,33,31,S1,Teknik
+Teknik Elektro,33,32,S1,Teknik
+Teknik Industri,33,33,S1,Teknik
+Teknik Metalurgi,33,34,S1,Teknik
+Teknik Kimia,33,35,S1,Teknik
+Teknik Sipil,33,36,S1,Teknik
+Agribisnis,44,41,S1,Pertanian
+Agroekoteknologi,44,42,S1,Pertanian
+Perikanan,44,43,S1,Pertanian
+Teknologi Pangan,44,44,S1,Pertanian
+Manajemen,55,51,S1,FEB
+Akuntansi,55,52,S1,FEB
+Ekonomi Pembangunan,55,53,S1,FEB
+Ekonomi Syariah,55,54,S1,FEB
+Administrasi Publik,66,61,S1,FISIP
+Ilmu Komunikasi,66,62,S1,FISIP
+Ilmu Pemerintahan,66,70,S1,FISIP
+Kedokteran,88,81,S1,Kedokteran
+Gizi,88,82,S1,Kedokteran
+Ilmu Keolahragaan,88,83,S1,Kedokteran
+Akuntansi,55,01,D3,FEB
+Manajemen Pemasaran,55,02,D3,FEB
+Perpajakan,55,03,D3,FEB
+Perbankan dan Keuangan,55,04,D3,FEB
+Keperawatan,88,01,D3,Kedokteran

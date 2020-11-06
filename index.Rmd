@@ -1,0 +1,37 @@
+--- 
+title: "Standar Pelayanan Minimal"
+author: "Registrasi Mahasiswa Universitas Sultan Ageng Tirtayasa Tahun 2020"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# KATA PENGANTAR {-}
+
+Penyempurnaan **Buku Standar Pelayanan Minimal** (**SPM**) Pelaksanaan Registrasi Mahasiswa tahun 2020 sesuai dengan perkembangan Ilmu dan Teknologi/IT dengan menggunakan e-administrasi (layanan administrasi akademik *online*) Univeritas Sultan Ageng Tirtayasa, sebagai acuan dalam memberikan pelayanan dan informasi di Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP) terhadap mahasiswa Universitas Sultan Ageng Tirtayasa serta mempermudah mahasiswa dalam mengajukan permohonan registrasi (efesiensi waktu) sesuai kebutuhan mahasiswa.
+Standar Pelayanan Minimal (SPM) Registrasi Mahasiswa ini merupakan penjabaran dari Pedoman Akademik, Program Kerja Universitas Sultan Ageng Tirtayasa tahun 2020, dan Program Kerja Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP) tahun 2020.
+
+**Standar Pelayanan Minimal** (**SPM**) Registrasi Mahasiswan ini dasar pemikiran pelaksanaan administrasi *online* (e-administrasi) agar dapat terpantau dan memiliki keseragaman kegiatan administrasi baik dalam proses maupun prosedur serta kebijakannya. Prinsip implementasi prosedur e-administrasi adalah : 
+
+1. Memberikan pelayanan prima kepada mahasiswa, 
+2. Memberikan kepuasan terhadap layanan akademik terhadap mahasiswa, 
+3. Melakukan efesiensi penggunaan kertas dalam layanan akademik, 
+4. Penyergaman prosedur dan kebijakan dalam pelaksanaan layanan akademik, 
+5. Mendokumentasikan secara akurat proses layanan akademik mahasiswa. Pelaksanaan kegiatan registrasi mahasiswa di Universitas Sultan Ageng Tirtayasa sesuai dengan permasalahan pendidikan yang berkembang, maka Standar Pelayanan Minimal (SPM) Registrasi mahasiswa inipun terus dilakukan perbaikan dan penyempurnaan setiap waktu, sehingga sesuai dan selaras dengan kebutuhan dan dinamika perkembangan akademik.
+
+Kami berharap **Standar Pelayanan Minimal** (**SPM**) Registrasi Mahasiswa ini dapat berfungsi sebagai acuan dalam melaksanakan kegiatan registrasi mahasiswa baik pada tingkat Universitas, Fakultas, Jurusan atau Program Studi, Pimpinan, Mahasiswa, Dosen, dan Pegawai di lingkungan Universitas Sultan Ageng Tirtayasa.
+
+
+| Serang, April 2020
+| Kepala BAKP Untirta
+
+$~$
+
+| Drs. Mochamad Ganiadi, M.M.
+| NIP. 19620422 199203 1 001
+
+
