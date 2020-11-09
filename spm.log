@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.3.12)  7 NOV 2020 23:20
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.3.12)  9 NOV 2020 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,13 +597,30 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count305
 ) (./spm.aux
 
+LaTeX Warning: Label `program-sarjana-s1-dan-program-diploma-d3' multiply defin
+ed.
+
+
+LaTeX Warning: Label `program-magister-s2' multiply defined.
+
+
 LaTeX Warning: Label `waktu-registrasi' multiply defined.
 
 
 LaTeX Warning: Label `prosedur-kontrak-mata-kuliah' multiply defined.
 
 
+LaTeX Warning: Label `pusat-data-dan-informasi-pusdainfo' multiply defined.
+
+
 LaTeX Warning: Label `petugas-registrasi' multiply defined.
+
+
+LaTeX Warning: Label `biro-akademik-kemahasiswaan-dan-perencanaan-bakp' multipl
+y defined.
+
+
+LaTeX Warning: Label `pascasarjana' multiply defined.
 
 
 LaTeX Warning: Label `waktu-registrasi' multiply defined.
@@ -1205,62 +1222,158 @@ Underfull \hbox (badness 6236) in paragraph at lines 1022--1023
 
 ]
 Chapter 3.
-[29] [30
+[29] [30]
+File: static/3.1.JPG Graphic file (type bmp)
+<static/3.1.JPG>
 
-]
+Overfull \hbox (282.259pt too wide) in paragraph at lines 1172--1173
+[][] 
+ []
+
+File: static/3.2.jpg Graphic file (type bmp)
+<static/3.2.jpg>
+
+Overfull \hbox (282.30194pt too wide) in paragraph at lines 1176--1177
+[][] 
+ []
+
+
+Underfull \vbox (badness 2326) has occurred while \output is active []
+
+[31]
+File: static/3.3.jpg Graphic file (type bmp)
+<static/3.3.jpg>
+
+Overfull \hbox (282.25316pt too wide) in paragraph at lines 1180--1181
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[32]
+File: static/3.4.jpg Graphic file (type bmp)
+<static/3.4.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[33]
+File: static/3.5.png Graphic file (type bmp)
+<static/3.5.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[34]
+Underfull \hbox (badness 1831) in paragraph at lines 1193--1194
+[]\TU/lmr/m/n/10 Lakukan kontrak mata kuliah sesuai petunjuk dan sesuai dengan
+ []
+
+File: static/3.6.jpg Graphic file (type bmp)
+<static/3.6.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[35]
+File: static/3.7.jpg Graphic file (type bmp)
+<static/3.7.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[36]
+File: static/3.8.jpg Graphic file (type bmp)
+<static/3.8.jpg>
+File: static/3.81.jpg Graphic file (type bmp)
+<static/3.81.jpg>
+
+Overfull \hbox (62.46336pt too wide) in paragraph at lines 1233--1234
+[][] 
+ []
+
+
+Underfull \vbox (badness 3525) has occurred while \output is active []
+
+[37]
+File: static/3.9.jpg Graphic file (type bmp)
+<static/3.9.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[38]
+File: static/3.91.jpg Graphic file (type bmp)
+<static/3.91.jpg>
+File: static/3.92.jpg Graphic file (type bmp)
+<static/3.92.jpg>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[39]
+File: static/3.93.jpg Graphic file (type bmp)
+<static/3.93.jpg>
+[40] [41]
+Underfull \hbox (badness 2512) in paragraph at lines 1325--1326
+\TU/lmr/m/n/10 Tirtayasa melaksanakan tugasnya sebagai biro yang menangani bida
+ng
+ []
+
+[42]
+File: static/3.94.JPG Graphic file (type bmp)
+<static/3.94.JPG>
+[43] [44]
 Chapter 4.
-[31] [32
+[45
+
+] [46
 
 ]
 Chapter 5.
-[33] [34
+[47] [48
 
 ]
 Chapter 6.
-[35] [36
+[49] [50
 
 ]
 Chapter 7.
-[37] [38
+[51] [52
 
 ]
 Chapter 8.
 
-Underfull \hbox (badness 3240) in paragraph at lines 1156--1156
+Underfull \hbox (badness 3240) in paragraph at lines 1450--1450
 []\TU/lmr/bx/n/14.4 Ketentuan Pengajuan Surat Pernyataan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1162--1162
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1456
 []\TU/lmr/bx/n/14.4 Prosedur Pengajuan Surat Pernyataan
  []
 
-[39] [40
+[53] [54
 
 ]
 Chapter 9.
 No file spm.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1175.
-[41]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1175.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1469.
+[55]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1469.
 (./spm.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1175.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1175.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1469.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1469.
 
 Package rerunfilecheck Info: File `spm.out' has not changed.
 (rerunfilecheck)             Checksum: F518ABD32E3191FBCB549225567216E8;10056.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1175.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1469.
  ) 
 Here is how much of TeX's memory you used:
- 18345 strings out of 481765
- 322228 string characters out of 5934542
- 752175 words of memory out of 5000000
- 35080 multiletter control sequences out of 15000+600000
+ 18446 strings out of 481765
+ 323813 string characters out of 5934542
+ 752813 words of memory out of 5000000
+ 35162 multiletter control sequences out of 15000+600000
  538903 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 52i,7n,115p,897b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,7n,115p,897b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on spm.pdf (41 pages).
+Output written on spm.pdf (55 pages).
