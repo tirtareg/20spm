@@ -1,9 +1,129 @@
 # REGISTRASI MAHASISWA LAMA
 
+Ketentuan registrasi mahasiswa lama setiap mahasiswa Untirta diwajibkan melakukan registrasi sebelum  melakukan perkuliahan dengan melakukan registrasi keuangan dan akademik, prosedur ini dilakukan untuk menghindari mahasiswa dari sanksi akademik dicutikan.
+
+Pada prosesnya prosedur ini melibatkan 6 (enam) entitas:
+
+1.  Mahasiswa
+2.  Bank
+3.  Jurusan/Program Studi/Fakultas/Pascasarjana
+4.  Subbagian Registrasi & Statistik/BAKP
+5.  Subbagian PNBP/BUKK.
+6.  Pusat Data dan Informasi (PUSDAINFO).
+
 ## Ketentuan Mahasiswa Lama
+
+### Program Sarjana (S1) dan Program Diploma (D3)
+
+1.  Mahasiswa melakukan registrasi keuangan/membayar SPP/UKT yaitu membayar ke Bank BNI  sampai mendapatkan bukti pembayarannya (Slip Pembayaran).
+2.  Mahasiswa setelah membayar SPP/UKT ke Bank BNI, sebagai bukti mahasiswa aktif ataupun status lainnya.
+3.  Mahasiswa mengambil Kartu Hasil Studi (KHS) dan melakukan registrasi kontrak mata kuliah/pengambilan mata kuliah / Kartu Rencana Studi (KRS) melakukan registrasi *online* / SIAKAD *online*.
+
+### Program Magister (S2)
+
+1.  Mahasiswa melakukan registrasi keuangan/membayar SPP yaitu membayar ke Bank BNI yang ditunjuk sampai mendapatkan bukti pembayarannya (Slip Pembayaran).
+2.  Mahasiswa setelah membayar SPP ke Bank BNI kemudian menyerahkan bukti pembayaran/slip bank ke Pascasarjana sebagai bukti mahasiswa aktif ataupun status lainnya.
+3.  Mahasiswa mengambil Kartu Hasil Studi (KHS) dan melakukan registrasi kontrak mata kuliah/pengambilan mata kuliah / Kartu Rencana Studi (KRS) di Pascasarjana.
+
+------------------------------------------------------------------------
+
+> Keterangan :
+>
+> Bagi Program Sarjana (S1) dan Program Diploma (D3) :
+>
+> 1.  Laman <https://siakad.untirta.ac.id/portal/>  atau : <https://siakad.untirta.ac.id/sia> fak.
+> 2.  Adanya http (HyperTex Transfer Protocol Secured).
+> 3.  Jika pada saat mau ke laman tersebut kemudian ada warning untrusted certificate, klik continue saja.
+> 4.  Registrasi Ulang (Herregistrasi) mahasiswa lama tidak lagi dilakukan dengan mengubah (mereset) PIN SIAKAD.
+> 5.  Setiap Mahasiswa Untirta yang pernah memiliki PIN dapat menggunakan KHS tanpa harus membayar SPP/UKT terlebih dahulu.
+> 6.  Setiap mahasiswa yang tidak memiliki PIN berhak mendapatkan PIN selama yang bersangkutan masih tercatat sebagai mahasiswa Untirta.
+
+------------------------------------------------------------------------
 
 ## Waktu Registrasi
 
+Pelaksanaan registrasi mahasiswa lama mengacu pada ketentuan yang telah di tuangkan dalam kalender akademik baik pada semester gasal maupun pada semester genab, sehingga mahasiswa sudah mempunyai dasar dan gambaran yang pasti akan waktu pelaksanaan kegiatan registrasi tersebut dan proses perkuliahan dapat berjalan dengan baik.
+
 ## Prosedur Kontrak Mata Kuliah
+
+### Program Sarjana dan Diploma (S1 dan D3) 
+
+1.  Membuka halaman <https://siakad.untirta.ac.id/portal/> kemudian *login*.
+
+    ![](static/3.1.JPG){width="800"}
+
+2.  Jika *login* berhasil maka akan masuk ke halaman depan seperti berikut.
+
+    ![](static/3.2.jpg){width="800"}
+
+3.  Profil mahaiswa
+
+    ![](static/3.3.jpg){width="800"}
+
+4.  Informasi mata muliah yang ditawarkan
+
+    ![](static/3.4.jpg)
+
+    Klik **Paket Semester** yang ada lalu klik kelas, nanti akan muncul detil kelas terkait kelas yang
+    dibuka tersebut.
+
+    ![](static/3.5.png)
+
+5.  Kartu Rencana Studi (KRS)
+
+    Lakukan kontrak mata kuliah sesuai petunjuk dan sesuai dengan Kartu Rencana Studi (KRS) yang sudah disetujui oleh Dosen pembimbing/Dosen Wali. Mengontrak Rencana Studi lalu mencetak Kartu Rencana Studi (KRS) adalah salah satu syarat bahwa mahasiswa tersebut aktif pada semester berjalan. Jika tidak melakukan KRS maka mahasiswa **Dianggap Tidak Aktif (Dicutikan).** KRS baru bisa dilakukan pada periode yang ditentukan oleh UPT. PUSDAINFO, dan jadwal kuliah sudah di-*upload* oleh Program Studi.
+
+    -   Klik Kartu Rencana Studi
+
+    -   Klik Tambah Mata Kuliah
+
+    ![](static/3.6.jpg)
+
+    Setelah muncul paket semesternya lalu:
+
+    -   Klik paket semesternya
+
+    -   Lalu pilih mata kuliah yang anda inginkan.
+        (Catatan : bagi mahasiswa baru (tingkat 1), mata kuliah sudah paket dan kelasnya sudah ditentukan oleh Program Studi, maka sebaiknya tanyakan anda harus memilih mata kuliah apa dan kelasnya kelas apa.
+
+    -   Setelah selesai memilih kelas, lalu klik Tambah
+
+    -   Cetak KRS, lalu temui dosen Pembimbing Akademik untuk meminta persetujuan KRS.
+
+    -   Copy kontrak mata kuliahnya atau *print out* dan simpan sebagai dokumen pribadi.
+
+    ![](static/3.7.jpg)
+
+6.  Kartu Hasil Studi (KHS)
+
+    -   Pilih semester dimana anda ingin melihat hasil studi anda. Lalu klik lihat.
+
+    -   Akan muncul seluruh mata kuliah dan nilai mata kuliah yang pernah anda ambil pada semester tersebut. Kemudian jika ingin mencetaknya silahkan klik cetak.
+
+    ![](static/3.8.jpg)
+
+    ![](static/3.81.jpg){width="508"}
+
+7.  Transkrip Nilai
+
+    Setelah diklik **Transkrip nilai**, seluruh nilai mata kuliah akan muncul sesuai kurikulum yang menjadi acuannya. Klik **cetak** jika ingin mencetak transkrip.
+
+    ![](static/3.9.jpg)
+
+    ![](static/3.91.jpg)
+
+8.  g
+
+9.  d
+
+10. d
+
+11. d
+
+12. d
+
+13. d
+
+14. d
 
 ## Petugas Registrasi
