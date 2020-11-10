@@ -66,8 +66,7 @@ Pelaksanaan registrasi mahasiswa lama mengacu pada ketentuan yang telah di tuang
 
     ![](static/3.4.jpg)
 
-    Klik **Paket Semester** yang ada lalu klik kelas, nanti akan muncul detil kelas terkait kelas yang
-    dibuka tersebut.
+    Klik **Paket Semester** yang ada lalu klik kelas, nanti akan muncul detil kelas terkait kelas yang dibuka tersebut.
 
     ![](static/3.5.png)
 
@@ -85,8 +84,7 @@ Pelaksanaan registrasi mahasiswa lama mengacu pada ketentuan yang telah di tuang
 
     -   Klik paket semesternya
 
-    -   Lalu pilih mata kuliah yang anda inginkan.
-        (Catatan : bagi mahasiswa baru (tingkat 1), mata kuliah sudah paket dan kelasnya sudah ditentukan oleh Program Studi, maka sebaiknya tanyakan anda harus memilih mata kuliah apa dan kelasnya kelas apa.
+    -   Lalu pilih mata kuliah yang anda inginkan. (Catatan : bagi mahasiswa baru (tingkat 1), mata kuliah sudah paket dan kelasnya sudah ditentukan oleh Program Studi, maka sebaiknya tanyakan anda harus memilih mata kuliah apa dan kelasnya kelas apa.
 
     -   Setelah selesai memilih kelas, lalu klik Tambah
 
@@ -122,8 +120,7 @@ Pelaksanaan registrasi mahasiswa lama mengacu pada ketentuan yang telah di tuang
 
     ***Berkirim Pesan***
 
-    Mahasiswa bisa berkirim pesan kepada seluruh mahasiswa dan dosen melalui portal akademik seperti berkirim email dengan alamat atau akun yang dituju adalah NIM mahasiswa dari orang yang akan dikirimkan pesan.
-    ![](static/3.93.jpg)
+    Mahasiswa bisa berkirim pesan kepada seluruh mahasiswa dan dosen melalui portal akademik seperti berkirim email dengan alamat atau akun yang dituju adalah NIM mahasiswa dari orang yang akan dikirimkan pesan. ![](static/3.93.jpg)
 
 2.  Mahasiwa melihat jadwal perkuliahan di fakultas untuk mengambil mata kuliah, dan dosen yang telah ditentukan oleh fakultas.
 
@@ -172,9 +169,7 @@ Biro Umum, Keuangan, dan Kepegawaian (BUKK) Universitas Sultan Ageng Tirtayasa m
 
 ### Bank BNI
 
-Melaksanakan tugasnya sebagai Bank yang ditunjuk oleh Universitas Sultan Ageng Tirtayasa sebagai Bank
-yang menerima pembayaran mahasiswa lama yang melakukan registrasi yaitu : Uang Kuliah Tunggal (UKT) program Sarjana (S1) dan Diploma (D3) dan Sumbangan Pengembangan Pendidikan (SPP) Program
-Magister (S2) dan Doktor (S3), melaksanakan koordinasi dengan Subbagian Penerimaan Negara Bukan Pajak (PNBP), Pusat Data dan Informasi (PUSDAINFO), dan Subbagian Registrasi dan Statistik.
+Melaksanakan tugasnya sebagai Bank yang ditunjuk oleh Universitas Sultan Ageng Tirtayasa sebagai Bank yang menerima pembayaran mahasiswa lama yang melakukan registrasi yaitu : Uang Kuliah Tunggal (UKT) program Sarjana (S1) dan Diploma (D3) dan Sumbangan Pengembangan Pendidikan (SPP) Program Magister (S2) dan Doktor (S3), melaksanakan koordinasi dengan Subbagian Penerimaan Negara Bukan Pajak (PNBP), Pusat Data dan Informasi (PUSDAINFO), dan Subbagian Registrasi dan Statistik.
 
 ### Pusat Data dan Informasi (PUSDAINFO)
 
@@ -185,13 +180,11 @@ Magister (S2) dan Doktor (S3), melaksanakan koordinasi dengan Subbagian Penerima
 
 ### Jurusan/Program Studi
 
-Jurusan/Program Studi menerima data mahasiswa lama yang telah melakukan registrasi dan melakukan
-Kartu Rencana Studi (KRS) membuat jadwal perkuliahan dan Daftar Hadir Mahasiswa dan Dosen (DHMD).
+Jurusan/Program Studi menerima data mahasiswa lama yang telah melakukan registrasi dan melakukan Kartu Rencana Studi (KRS) membuat jadwal perkuliahan dan Daftar Hadir Mahasiswa dan Dosen (DHMD).
 
 ### Pascasarjana
 
-1.  Subbagian Akademik Pascasarjana menerima data mahasiswa yang telah mengisi pada Kartu Rencana Studi (KRS) dan mendapat bimbingan akademiknya, mahasiswa segera menyerahkan Kartu Rencana
-    Studi (KRS) nya ke Subbagian Akademik Pascasarjana.
+1.  Subbagian Akademik Pascasarjana menerima data mahasiswa yang telah mengisi pada Kartu Rencana Studi (KRS) dan mendapat bimbingan akademiknya, mahasiswa segera menyerahkan Kartu Rencana Studi (KRS) nya ke Subbagian Akademik Pascasarjana.
 2.  Mengolah data dan menerbitkan Kartu Rencana Studi (KRS) dan Daftar Hadir Mahasiswa dan Dosen (DHMD).
 
 ### Pascasarjana/Fakultas
@@ -199,5 +192,3 @@ Kartu Rencana Studi (KRS) membuat jadwal perkuliahan dan Daftar Hadir Mahasiswa 
 Mengendalikan operasional jalannya kegiatan perkuliahan sesuai dengan jadwal perkuliahan yang telah ditentukan.
 
 ![Flowchart registrasi mahasiswa lama](static/3.94.JPG "Flowchart registrasi mahasiswa lama")
-
-
