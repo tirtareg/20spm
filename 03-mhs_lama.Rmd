@@ -40,11 +40,11 @@ Pada prosesnya prosedur ini melibatkan 6 (enam) entitas:
 
 ------------------------------------------------------------------------
 
-## Waktu Registrasi
+## Waktu Registrasi (2)
 
 Pelaksanaan registrasi mahasiswa lama mengacu pada ketentuan yang telah di tuangkan dalam kalender akademik baik pada semester gasal maupun pada semester genab, sehingga mahasiswa sudah mempunyai dasar dan gambaran yang pasti akan waktu pelaksanaan kegiatan registrasi tersebut dan proses perkuliahan dapat berjalan dengan baik.
 
-## Prosedur Kontrak Mata Kuliah
+## Prosedur Kontrak Mata Kuliah (2)
 
 ### Program Sarjana dan Diploma (S1 dan D3)
 
@@ -155,7 +155,7 @@ Mahasiswa ProgramMagister **(**S2) dan Doktor (S3) dapat melakukan registrasi de
 2.  Mahasiswa melakukan bimbingan mata kuliah ke dosen wali/dosen pembimbing di Pascasarjana, untuk disetujui dan ditandatangani serta distempel oleh Pascasarjana.
 3.  Mahasiswa melihat jadwal perkuliahan di Pascasarjana untuk mengambil mata kuliah, kelas, dan dosen, serta dosen pembimbing/dosen wali yang telah ditentukan oleh Pascasarjana.
 
-## Petugas Registrasi
+## Petugas Registrasi (2)
 
 Petugas Registrasi yang terkait dalam pelaksanaan registrasi ulang mahasiswa lama antara lain:
 

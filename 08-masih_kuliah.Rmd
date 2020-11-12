@@ -2,7 +2,41 @@
 
 ## Ketentuan Pengajuan Surat Pernyataan Masih Kuliah
 
-## Waktu Registrasi
+Prosedur ini ditujukan untuk mengatur proses pembuatan surat pernyataan masih kuliah bagi mahasiswa. Surat pernyataan masih kuliah ini sering diperlukan oleh orang tua mahasiswa untuk mendapatkan tanggungan atau asuransi anak bagi orang tua mahasiswa. Prosedur ini pada prosesnya melibatkan 3 (tiga) entitas yaitu:
+
+1.  Mahasiswa
+2.  Fakultas
+3.  Program Studi
+
+## Ketentuan
+
+1.  Mahasiswa masih berstatus mahasiswa aktif Untirta, sudah melakukan kewajibannya membayar
+    registrasi keuangan dan akademiknya.
+2.  Mengajukan permohonan surat pernyataan masih kuliah secara *online* dan prosedur yang ada/berlaku.
+
+## Waktu Registrasi (7)
+
+Pengajuan permohonan pembuatan Surat Pernyataan Masih Kuliah dapat diajukan di setiap semester.
 
 ## Prosedur Pengajuan Surat Pernyataan Masih Kuliah
 
+A.  Mahasiswa
+
+    1.  Mahasiswa membuka laman [**http://eAdministrasi.untirta.ac.id**](http://eAdministrasi.untirta.ac.id)Klik Login
+    2.  Mahasiswa menginput username (NIM) dan password (dari email) dan masuk ke halaman login. Klik Surat di laman bagian kanan atas.
+    3.  Mahasiswa akan dihadapkan pada Data Surat dan status Verifikasi dan  Validasinya. Klik pilih -- Pernyataan Masih Kuliah, lalu Klik Buat.
+    4.  Mahasiswa berada di laman Tambah Permohonan, isikan form isian secara lengkap, lalu Klik Simpan.
+    5.  Klik **Aksi Cetak Bukti Permohonan**. Lalu Klik Keluar.
+    6.  Mahasiswa menyerahkan **Cetak Bukti Permohonan** ke Fakultas.
+    7.  Mahasiswa mengecek status surat. Jika status surat sudah diverifikasi dan divalidasi, maka surat dapat diambil di Program Studi.
+
+B.  Fakultas
+
+    1.  Fakultas menerima Cetak Bukti Permohonan Surat Pernyataan Masih Kuliah dari mahasiswa.
+    2.  Fakultas *log* *in* ke laman admin, memeriksa status mahasiswa (kalo cuti tidak bisa), dan memberikan **verifikasi** dan **validasi** permohonan Surat Pernyataan.
+    3.  Fakultas mencetak Surat Pernyataan dan meminta tanda tangan Kabag TU Fakultas.
+    4.  Fakultas menyerahkan Surat Pernyataan Masih Kuliah kepada Program Studi.
+
+C.  Program Studi
+
+    Prodi menyerahkan surat ke Mahasiswa.

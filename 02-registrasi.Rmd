@@ -23,7 +23,7 @@ Selanjutnya calon mahasiswa melengkapi persyaratan administrasi akademik dan adm
 
 Bagi mahasiswa baru baik Program Sarjana (S1) dan Program Diploma (D3) melakukan registrasi akademik dengan melengkapi persyaratan dan ketentuan yang telah ditetapkan.
 
-## Waktu Registrasi
+## Waktu Registrasi (1)
 
 Pelaksanaan registrasi mahasiswa baru mengacu pada ketentuan yang telah di tuangkan dalam kalender akademik pada semester gasal (Program Sarjana (S1) dan Diploma (D3), semester gasal dan genap (Program Magister (S2)) sehingga mahasiswa sudah punya dasar dan gambaran yang pasti akan waktu pelaksanaan kegiatan Registrasi Mahasiswa Baru tersebut dan proses perkuliahan dapat berjalan dengan baik.
 
@@ -210,6 +210,6 @@ Kartu Tanda Mahasiswa (KTM) Sementara diberikan kepada mahasiswa baru setelah me
 
 Pusat data dan Informasi (PUSDAINFO) menyiapkan Aplikasi Sistem Registrasi *Online* /SIREG *Online* dan Aplikasi Sistem Akademik *Online*/SIAKAD *Online* berupa elektronik.
 
-## Prosedur Kontrak Mata Kuliah
+## Prosedur Kontrak Mata Kuliah (1)
 
-## Petugas Registrasi
+## Petugas Registrasi (1)

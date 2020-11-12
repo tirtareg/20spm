@@ -1,5 +1,55 @@
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
 # ALIH JENJANG
 
-## Dari Luar ke Untirta
+Selain menerima pindah program studi antar fakultas, Universitas Sultan Ageng Tirtayasa juga menerima mahasiswa pindahan dan Lanjutan (D3 Fakultas Ekonomi dan Bisnis ke S1 Untirta) dari perguruan tinggi Negeri.
+Adapun syarat dan prosedur yang harus dilalui oleh seorang calon mahasiswa, yang melibatkan 6 (enam) entitas:
 
-## D3 FEB ke S1
+1.  Mahasiswa.
+2.  Bank.
+3.  Subbagian Registrasi dan Statistik, BAKP.
+4.  Subbagian PNBP, BUKK.
+5.  Pusat Data dan Informasi (PUSDAINFO).
+6.  Jurusan/Program Studi/Fakultas/Pascasarjana.
+
+## Ketentuan Umum
+
+1.  Mahasiswa Pindahan
+
+    Bagi Mahasiswa yang akan pindah kuliah ke Universitas Sultan Ageng Tirtayasa syarat yang harus ditempuh sebagai berikut:
+
+    1.  Universitas Sultan Ageng Tirtayasa hanya menerima mahasiswa pindahan yang berasal dari Perguruan Tinggi Negeri (PTN) dengan akreditasi minimal sama dengan akreditasi pada Jurusan/Program Studi yang dituju di Untirta.
+    2.  Universitas Sultan Ageng Tirtayasa menerima mahasiswa pindahan bersatus sebagai mahasiswa aktif pada perguruan tinggi negeri asal.
+    3.  Universitas Sultan Ageng Tirtayasa menerima mahasiswa pindahan tidak berstatus cuti dari perguruan tinggi negeri asal.
+    4.  Universitas Sultan Ageng Tirtayasa tidak dapat menerima mahasiswa dari perguruan tinggi negeri lain yang sudah tidak memiliki status sebagai mahasiswa atau karena dikeluarkan (*drop out*) dari perguruan tinggi negeri lain tersebut.
+    5.  Memiliki surat pengantar ijin pindah dari pergurunan tinggi negeri asal.
+    6.  Telah menyelesaikan semester 1, 2, 3, dan 4 tanpa ada status cuti pada semester tersebut. Hal ini dibuktikan dengan KHS untuk masing-masing semester tersebut.
+    7.  IPK minimal 2,75, dibuktikan dengan transkrip akademik resmi yang dikeluarkan oleh PTN asal.
+    8.  Nilai mata kuliah MPK harus sekurang-kurangnya B.
+    9.  Tidak memiliki huruf mutu E.
+    10. Masa studi yang ditinggalkan di perguruan tinggi asal diperhitungkan dalam masa studi di Universitas Sultan Ageng Tirtayasa.
+    11. Tidak pernah melakukan pelanggaran tata tertip kehidupan kampus di perguruan tinggi asal atau sebab lain yang sejenis di tempat asal mahasiswa dibuktikan dengan surat keterangan dari pimpinan perguruan tinggi yang bersangkutan.
+    12. Bagi mahasiswa yang mengajukan pindah kuliah dan melanjutkan studi ke Universitas Sultan Ageng Tirtayasa dikenakan biaya konversi sesuai dengan keputusan rektor tentang biaya konversi.
+    13. Surat ijin/pengajuan pindah kuliah dari perguruan tinggi asal.
+    14. Surat Rekomendasi dari jurusan/program studi/fakultas/pascasarjana yang dituju.
+
+2.  Alih Jenjang D3 FEB ke S1 FEB Untirta
+
+    Bagi Mahasiswa yang melanjutkan kuliah ke Universitas Sultan Ageng Tirtayasa syarat yang harus ditempuh sebagai berikut:
+
+    1.  Lulusan Diploma (D3) Fakultas Ekonomi Untirta/dari Perguruan Tinggi Negeri (PTN) lain.
+    2.  Program Studi Diploma (D3) Linier.
+    3.  Akreditasi perguruan tinggi asal minimal B.
+    4.  Indeks Prestasi Kumulatif (IPK) asal minimal 3.00.
+    5.  Lulusan 3 tahun terakhir.
+    6.  Melakukan Ujian Tulis yang diselenggarankan Fakultas Ekonomi dan Bisnis Universitas Sultan Ageng Tirtayasa.
+
+## Waktu Registrasi (8)
+
+Pelaksanaan registrasi Pindahan dan LanjutanD3 Fakultas Ekonomi dan Bisnis ke S1 Untirta mengacu pada ketentuan yang telah di tuangkan dalam kalender akademik pada semester gasal (Program Sarjana (S1) dan Diploma (D3), semester gasal dan genap (Program Magister (S2) sehingga mahasiswa sudah punya dasar dan gambaran yang pasti akan waktu pelaksanaan kegiatan Registrasi Mahasiswa Pindahan dan Lanjutan D3 Fakultas Ekonomi dan Bisnis ke S1 Untirtatersebut dan proses perkuliahan dapat berjalan dengan baik .
+
+## Prosedur Registrasi

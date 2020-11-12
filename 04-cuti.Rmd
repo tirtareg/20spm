@@ -32,12 +32,11 @@ prosesnya prosedur ini melibatkan 6 (enam) entitas:
 3.  Hak Cuti kuliah maksimal 2 (dua) semester, baik secara
     berturut-turut maupun secara terpisah.
 4.  Pengajuan ijin cuti kuliah diperkenankan apabila minimal telah
-    menyelesaikan studi 2 (dua) semester
-    dan maksimal semester 12 (dua belas).
+    menyelesaikan studi 2 (dua) semester dan maksimal semester 12 (dua
+    belas).
 5.  Alasan cuti kuliah yang rasional (*reasonable*)
 6.  Pengajuan ijin cuti kuliah setelah kegiatan perkuliahan dimulai
-    tidak akan dilayani dan tidak akan
-    diproses.
+    tidak akan dilayani dan tidak akan diproses.
 7.  Permohonan Ijin cuti kuliah diproses oleh
     Jurusan/Prodi/Fakultas/Pascasarjana untuk diverifikasi dan
     diproses juga oleh Subbagian Registrasi dan Statistik Biro Akademik,
@@ -45,12 +44,12 @@ prosesnya prosedur ini melibatkan 6 (enam) entitas:
     serta ditandatangani oleh Wakil Rektor Bidang Akademik.
 8.  Setelah batas waktu ijin Cuti Kuliah berakhir mahasiswa harus segera
     mengajukan permohonan aktif kuliah kembali diproses oleh Prodi untuk
-    diverifikasi dan diproses juga oleh Subbagian Registrasi
-    dan Statistik Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP)
-    untuk divalidasi dan dicetak serta ditandatangani oleh Wakil Rektor
-    Bidang Akademik.
+    diverifikasi dan diproses juga oleh Subbagian Registrasi dan
+    Statistik Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP) untuk
+    divalidasi dan dicetak serta ditandatangani oleh Wakil Rektor Bidang
+    Akademik.
 
-## Waktu Registrasi
+## Waktu Registrasi (3)
 
 Mahasiswa yang melakukan permohonan cuti kuliah mengacu pada ketentuan
 yang telah dituangkan dalam kalender akademik baik pada semester gasal
@@ -106,8 +105,7 @@ kembali.
 2.  **Jurusan/Program Studi/Fakultas/Pascasarjana**
 
     1.  Jurusan/Program Studi/Fakultas/Pascasarjana menerima Cetak Bukti
-        Permohonan Cuti yang sudah
-        dilegalisasi pihak Bank.
+        Permohonan Cuti yang sudah dilegalisasi pihak Bank.
     2.  Jurusan/Program Studi/Fakultas/Pascasarjana *log in* ke laman
         admin, memeriksa status mahasiswa, dan memberikan verifikasi
         atas permohonan cuti mahasiswa.
@@ -138,7 +136,7 @@ kembali.
     dari mahasiswa aktif kuliah menjadi mahasiswa cuti kuliah di
     semester yang bersangkutan.
 
-## Petugas Registrasi
+## Petugas Registrasi (3)
 
 Petugas Registrasi yang terkait dalam pelaksanaan tersebut melibatkan:
 
@@ -160,11 +158,10 @@ Petugas Registrasi yang terkait dalam pelaksanaan tersebut melibatkan:
     ditugaskan melayani mahasiswa yang melakukan permohonan cuti kuliah:
     Memberikan verifikasi/surat pengantar pembayaran cuti kuliah kepada
     mahasiswa yang melakukan permohonan cuti kuliah dan persyaratan
-    akademik sudah dilengkapi, mendokumentasikan laporan,
-    melakukan koordinasi dengan Subbagian Registrasi dan Statistik
-    (BAKP), Pusat Data dan Informasi (PUSDAINFO), Subbagian Akademik
-    Pascasarjana, Jurusan/Prodi/Fakultas dan petugas bank yang ditunjuk
-    Bank BNI.
+    akademik sudah dilengkapi, mendokumentasikan laporan, melakukan
+    koordinasi dengan Subbagian Registrasi dan Statistik (BAKP), Pusat
+    Data dan Informasi (PUSDAINFO), Subbagian Akademik Pascasarjana,
+    Jurusan/Prodi/Fakultas dan petugas bank yang ditunjuk Bank BNI.
 
 3.  Bank (Bank yang ditunjuk adalah Bank Negara Indonesia/BNI)
 
