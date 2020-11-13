@@ -61,7 +61,7 @@ kembali.
 
 ## Prosedur Pengajuan Cuti Kuliah
 
-1.  **Mahasiswa**
+A.  **Mahasiswa**
 
     Prosedur lengkap pengambilan cuti kuliah oleh mahasiswa adalah
     sebagai berikut:
@@ -102,7 +102,7 @@ kembali.
         Jika status surat sudah diverifikasi dan divalidasi, maka
         mahasiswa dapat meminta Surat Ijin Cuti di BAKP.
 
-2.  **Jurusan/Program Studi/Fakultas/Pascasarjana**
+B.  **Jurusan/Program Studi/Fakultas/Pascasarjana**
 
     1.  Jurusan/Program Studi/Fakultas/Pascasarjana menerima Cetak Bukti
         Permohonan Cuti yang sudah dilegalisasi pihak Bank.
@@ -110,7 +110,7 @@ kembali.
         admin, memeriksa status mahasiswa, dan memberikan verifikasi
         atas permohonan cuti mahasiswa.
 
-3.  **Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP)**
+C.  **Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP)**
 
     Biro Akademik, Kemahasiswaan dan Perencanaan (BAKP) melalui
     Subbagian Registrasi dan Statistik memproses Pengajuan Ijin Cuti
@@ -125,12 +125,12 @@ kembali.
         Prodi/Fakultas/Pascasarjana.
     4.  Mendokumentasikan/mengarsipkan Surat Ijin Cuti.
 
-4.  **Mahasiswa**
+D.  **Mahasiswa**
 
     Mahasiswa mengambil Surat Cuti yang telah ditandatangani Wakil
     Rektor Bidang Akademik di Subbagian Registrasi dan Statistik.
 
-5.  **Pusdainfo (Pusat Data dan Informasi)**
+E.  **Pusdainfo (Pusat Data dan Informasi)**
 
     Pusat Data dan Informasi (Pusdainfo) mengubah status data mahasiswa
     dari mahasiswa aktif kuliah menjadi mahasiswa cuti kuliah di
@@ -140,7 +140,7 @@ kembali.
 
 Petugas Registrasi yang terkait dalam pelaksanaan tersebut melibatkan:
 
-1.  Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP)
+1.  **Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP)**
 
     Biro Akademik, Kemahasiswaan dan Perencanaan (BAKP) Universitas
     Sultan Ageng Tirtayasa melalui Subbagian Registrasi dan Statistik
@@ -150,7 +150,7 @@ Petugas Registrasi yang terkait dalam pelaksanaan tersebut melibatkan:
     Informasi (PUSDAINFO), Jurusan/Prodi/Fakultas dan Subbagian Akademik
     Pascasarjana.
 
-2.  Biro Umum, Keuangan dan Kepegawaian (BUKK).
+2.  **Biro Umum, Keuangan dan Kepegawaian (BUKK).**
 
     Biro Umum, Keuangan, dan Kepegawaian (BUKK) Universitas Sultan Ageng
     Tirtayasa melaksanakan tugasnya sebagai biro yang menangani bidang
@@ -163,7 +163,7 @@ Petugas Registrasi yang terkait dalam pelaksanaan tersebut melibatkan:
     Data dan Informasi (PUSDAINFO), Subbagian Akademik Pascasarjana,
     Jurusan/Prodi/Fakultas dan petugas bank yang ditunjuk Bank BNI.
 
-3.  Bank (Bank yang ditunjuk adalah Bank Negara Indonesia/BNI)
+3.  **Bank (Bank yang ditunjuk adalah Bank Negara Indonesia/BNI)**
 
     Melaksanakan tugasnya sebagai Bank yang ditunjuk oleh Universitas
     Sultan Ageng Tirtayasa sebagai Bank yang menerima pembayaran
@@ -172,7 +172,7 @@ Petugas Registrasi yang terkait dalam pelaksanaan tersebut melibatkan:
     dan Statistik (BAKP), Pusat Data dan Informasi (PUSDAINFO), dan
     Subbagian Akademik Pascasarjana.
 
-4.  Pusat Data dan Informasi (PUSDAINFO)
+4.  **Pusat Data dan Informasi (PUSDAINFO)**
 
     Pusat Data dan Informasi (PUSDAINFO**)** menerima data mahasiswa
     yang telah mengajukan permohonan cuti kuliah, mengubah status
@@ -182,7 +182,7 @@ Petugas Registrasi yang terkait dalam pelaksanaan tersebut melibatkan:
     Jurusan/Prodi/Fakultas, Subbagian Akademik Pascasarjana, dan petugas
     bank yang ditunjuk yaitu Bank BNI.
 
-5.  Program Studi/Fakultas/Pascasarjana
+5.  **Program Studi/Fakultas/Pascasarjana**
 
     Program Studi/Fakultas/Pascasarjana menerima data yang telah
     divalidasi dan dicetak surat cuti kuliah serta sudah ditandatangani
@@ -191,6 +191,5 @@ Petugas Registrasi yang terkait dalam pelaksanaan tersebut melibatkan:
     Penerimaan Negara Bukan Pajak (PNBP), Subbagian Registrasi dan
     Statistik, dan Pusat Data dan Informasi (PUSDAINFO).
 
-*Flowchart* Permohonan Ijin Cuti Kuliah
-
-![](static/FC CUti Kuliah.jpg)
+![Diagram Alir Permohonan Cuti
+Kuliah](static/FC CUti Kuliah.jpg "Diagram Alir Pengajuan Cuti Kuliah")
