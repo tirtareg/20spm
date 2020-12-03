@@ -225,8 +225,7 @@ Pusat data dan Informasi (PUSDAINFO) menyiapkan Aplikasi Sistem Registrasi *Onli
 
 A.  **Mahasiswa**
 
-    Setelah mahasiswa baru menyelesaikan persyaratan administrasi akademik, keuangan, dan sudah memiliki NIM (Nomor Induk Mahasiswa) dan PIN yang diberikan oleh Subbagian Registrasi dan Statistik - BAKP, mahasiswa baru melakukan registrasi *online*: SIREG *online* dan SIAKAD
-    *online*, prosedurnya sebgai berikut:
+    Setelah mahasiswa baru menyelesaikan persyaratan administrasi akademik, keuangan, dan sudah memiliki NIM (Nomor Induk Mahasiswa) dan PIN yang diberikan oleh Subbagian Registrasi dan Statistik - BAKP, mahasiswa baru melakukan registrasi *online*: SIREG *online* dan SIAKAD *online*, prosedurnya sebgai berikut:
 
     1.  Membuka website <http://siakad.untirta.ac.id/portal> kemudian *login* (segera ganti PIN/*password*)
 
@@ -244,13 +243,11 @@ A.  **Mahasiswa**
 
         ![](static/3.4.jpg){width="600"}
 
-        Klik **Paket Semester** yang ada lalu klik kelas, nanti akan muncul detil kelas terkait kelas yang dibuka tersebut.
-        ![](static/3.5.png){width="600"}
+        Klik **Paket Semester** yang ada lalu klik kelas, nanti akan muncul detil kelas terkait kelas yang dibuka tersebut. ![](static/3.5.png){width="600"}
 
         ***Kartu Rencana Studi*** **(KRS)**
 
-        Mengontrak Rencana Studi lalu mencetak Kartu Rencana Studi (KRS) adalah salah satu syarat
-        bahwa mahasiswa tersebut aktif pada semester berjalan. Jika tidak melakukan pengisian KRS, maka mahasiswa dianggap tidak aktif. Pengisian KRS baru bisa dilakukan pada periode yang ditentukan oleh PUSDAINFO dan ketika jadwal kuliah sudah diuunggah oleh Program Studi. **Klik Kartu Rencana Studi (KRS)**. Kemudian **Klik Tambah Matakuliah**.
+        Mengontrak Rencana Studi lalu mencetak Kartu Rencana Studi (KRS) adalah salah satu syarat bahwa mahasiswa tersebut aktif pada semester berjalan. Jika tidak melakukan pengisian KRS, maka mahasiswa dianggap tidak aktif. Pengisian KRS baru bisa dilakukan pada periode yang ditentukan oleh PUSDAINFO dan ketika jadwal kuliah sudah diuunggah oleh Program Studi. **Klik Kartu Rencana Studi (KRS)**. Kemudian **Klik Tambah Matakuliah**.
 
         ![](static/3.6.jpg){width="600"}
 
@@ -266,18 +263,15 @@ A.  **Mahasiswa**
 
             ![](static/01_krs.jpg){width="556"}
 
-    2.  Kontrak mata kuliah / Pengambilan mata kuliah yang telah ditetapkan, pada semester yang akan
-        ditempuh, mahasiswa baru mengisi Kartu Rencana Studi (KRS) secara on line , dicetak untuk diserahkan ke fakultas/jurusan/program studi atau sebagai dokumen pribadi.
+    2.  Kontrak mata kuliah / Pengambilan mata kuliah yang telah ditetapkan, pada semester yang akan ditempuh, mahasiswa baru mengisi Kartu Rencana Studi (KRS) secara on line , dicetak untuk diserahkan ke fakultas/jurusan/program studi atau sebagai dokumen pribadi.
 
     3.  Mahasiswa baru melakukan konsultasi bimbingan akademik/ mata kuliah ke dosen wali/dosen pembimbing akademik di fakultas untuk disetujui dan ditandatangani dan distempel oleh fakultas.
 
-    4.  Mahasiswa baru melihat jadwal perkuliahan dan dosen dengan mata kuliah yang akan diajar
-        di Fakultas.
+    4.  Mahasiswa baru melihat jadwal perkuliahan dan dosen dengan mata kuliah yang akan diajar di Fakultas.
 
 B.  **Pusat Data dan Informasi (PUSDAINFO)**
 
-    1.  Pusat Data dan Informasi (PUSDAINFO**)** menerima data mahasiswa yang telah mengisi Kartu Rencana Studi (KRS) dan mendapat bimbingan akademiknya, mahasiswa segera menyerahkan Kartu Rencana Studi (KRS) nya ke Pusat Data dan Informasi (PUSDAINFO) baik cetak maupun
-        elektronik.
+    1.  Pusat Data dan Informasi (PUSDAINFO**)** menerima data mahasiswa yang telah mengisi Kartu Rencana Studi (KRS) dan mendapat bimbingan akademiknya, mahasiswa segera menyerahkan Kartu Rencana Studi (KRS) nya ke Pusat Data dan Informasi (PUSDAINFO) baik cetak maupun elektronik.
     2.  Mengolah data dan menerbitkan Kartu Rencana Studi (KRS) dan Daftar Hadir Mahasiswa dan Dosen (DHMD).
 
 C.  **Subbagian Akademik Pascasarjana**
@@ -285,8 +279,7 @@ C.  **Subbagian Akademik Pascasarjana**
     1.  Subbagian Akademik Pascasarjana menerima data mahasiswa yang telah mengisi Kartu Rencana Studi (KRS) dan mendapat bimbingan akademiknya, mahasiswa segera menyerahkan Kartu Rencana Studi (KRS) nya ke Subbagian Akademik Pascasarjana.
     2.  Mengolah data dan menerbitkan Kartu Rencana Studi (KRS) dan Daftar Hadir Mahasiswa dan Dosen (DHMD).
 
-D.  **Perkuliahan Mahasiswa Baru**
-    Setelah mahasiswa mendapatkan Kartu Rencana Studi (KRS) dan namanya tercantum dalan Daftar Hadir Mahasiswa dan Dosen (DHMD), mahasiswa dapat mengikuti perkuliahan sesuai mata kuliah yang dikontrak/diambil dalam Kartu Rencana Studi (KRS).
+D.  **Perkuliahan Mahasiswa Baru** Setelah mahasiswa mendapatkan Kartu Rencana Studi (KRS) dan namanya tercantum dalan Daftar Hadir Mahasiswa dan Dosen (DHMD), mahasiswa dapat mengikuti perkuliahan sesuai mata kuliah yang dikontrak/diambil dalam Kartu Rencana Studi (KRS).
 
 ## Petugas Registrasi (1)
 
