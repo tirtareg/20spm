@@ -1,9 +1,100 @@
 # PENGAJUAN PINDAH KULIAH KE PT LAIN
 
+Prosedur ini ditujukan untuk mengatur proses pembuatan Surat Pindah Kuliah bagi mahasiswa yang akan keluar dari Untirta menuju Perguruan Tinggi lain. Mahasiswa diminta hati-hati dalam menggunakan fitur ini karena begitu fitur ini dilaksanakan dan disetujui, maka mahasiswa yang mengajukan akan dinyatakan Bukan Mahasiswa Untirta lagi. Prosedur Surat Pindah Kuliah ini pada prosesnya melibatkan 5 (lima)
+entitas yaitu:
+
+1.  Mahasiswa.
+2.  Bank
+3.  Program Studi/Fakultas
+4.  Subbagian PNBP/BUKK.
+5.  Subbagian Registrasi dan Statistik, BAKP -- Wakil Rektor Bidang Akademik.
+
+Program Studi dalam hal hanya memonitor dan mengetahui (sebagai laporan) bahwa ada mahasiswa yang pindah (keluar) dari Untirta.
+
 ## Ketentuan Umum Pengajuan Pindah Kuliah ke PT Lain
+
+Bagi Mahasiswa yang akan pindah ke perguruan tinggi lain/keluar dari Universitas Sultan Ageng Tirtayasa harus melampirkan:
+
+1.  Surat Keterangan tidak memiliki tunggakan administrasi keuangan dari BUKK melalui Subbagian Penerimaan Negara Bukan Pajak (PNBP).
+2.  Surat Keterangan Bebas tidak memiliki pinjaman buku dari Perpustakaan Fakultas untuk Program Pendidikan D3 dan S1.
+3.  Surat Keterangan Bebas tidak memiliki pinjaman buku dari Perpustakaan Universitas untuk Program Pendidikan D3, S1, dan S2.
+4.  Nilai Hasil Studi/Transkrip Akademik selama menempuh studi di Untirta.
+5.  Mengajukan Permohonan Surat Pindah Kuliah ke luar Untirta dan secara *online* dan mendapat rekomendasi dari Jurusan / Program Studi / Fakultas / Pascasarjana yang bersangkutan
+    bagi semua jenjang pendidikan S2, S1, dan D3.
 
 ## Waktu Registrasi (6)
 
+Bagi mahasiswa yang akan melakukan Permohonan Pindah Kuliah dari Untirta ke perguruan tinggi lain dapat mengajukan pada setiap semester.
+
 ## Prosedur Pengajuan Pindah Kuliah (Keluar dari Untirta)
 
+A.  **Mahasiswa**
+
+    1.  Mahasiswa membuka laman [**http://eAdministrasi.untirta.ac.id**](http://eAdministrasi.untirta.ac.id)Klik *Login*
+
+        ![](static/4.01.jpg){width="800"}
+
+    2.  Mahasiswa meng-*input* *username* (NIM) dan *password* (dari email) dan masuk ke halaman *login*.
+
+        ![](static/4.02.jpg)
+
+        Klik Surat di laman bagian kanan atas.
+
+        ![](static/4.03.jpg)
+
+    3.  Mahasiswa akan dihadapkan pada Data Surat dan status Verifikasi dan Validasinya. Klik pilih -- Permohonan Pindah Kuliah, lalu Klik Buat.
+
+        ![](static/4.04.jpg){width="800"}
+
+    4.  Mahasiswa berada di laman Tambah Permohonan, isikan Semester Pindah, Perguruan Tinggi dan alasan pindah, lalu Klik Simpan.
+
+    5.  Klik **Aksi Cetak Bukti Permohonan**. Lalu Klik Keluar
+
+    6.  Mahasiswa menyerahkan **Cetak Bukti Permohonan** ke Fakultas
+
+    7.  Mahasiswa mengecek status surat. Jika status surat sudah diverifikasi dan divalidasi, maka
+        surat dapat diambil di BAKP.
+
+B.  **Jurusan/Program Studi/Fakultas Pascasarjana**
+
+    1.  Jurusan / Program Studi / Fakultas Pascasarjana menerima Cetak Bukti Permohonan Surat Pindah Kuliah dari mahasiswa.
+    2.  Jurusan/Program Studi/FakultasPascasarjanalog in ke laman admin, memeriksa status mahasiswa (kalo cuti tidak bisa), dan memberikan **verifikasi** permohonan Surat Pindah Kuliah.
+
+C.  **Biro Akademik, Kemahasiswaan, dan Perencanaan (BAKP)**
+
+    Biro Akademik, Kemahasiswaan dan Perencanaan (BAKP) melalui Subbagian Registrasi dan Statistik memproses pengajuan Pindah Kuliah dari Untirta ke Perguruan Tinggi lain :
+
+    1.  *Login* ke **siakad** dan **eadministrasi** untuk memeriksa status mahasiswa termasuk status pembayarannya, lalu memberikan **validasi** atas permohonan Surat Pindah Kuliah.
+    2.  Mencetak Surat Pindah Kuliah dan meminta tanda tangan Wakil Rektor I Bidang Akademik.
+    3.  Menyerahkan Surat Pindah Kuliah yang telah ditandatangani WR 1 kepada Mahasiswa.
+    4.  Membuat tembusan ke PNBP dan Pusdainfo terkait pindahnya mahasiswa tersebut.
+
 ## Petugas Registrasi (6)
+
+Petugas Registrasi yang terkait dalam pelaksanaan tersebut melibatkan :
+
+1.  **Biro Akademik, Kemahasiswaan dan Perencanaan (BAKP).**
+
+    Biro Akademik, Kemahasiswaan dan Perencanaan (BAKP) Universitas Sultan Ageng Tirtayasa melalui Subbagian Registrasi dan Statistik melaksanakan tugasnya melayani mahasiswa yang melakukan Permohonan Pindah Kuliah dari Untirta ke Perguruan Tinggi lain, memeriksa persyaratan akademik, mendokumentasikan laporan, melakukan koordinasi dengan Subbagian Penerimaan Negara Bukan
+    Pajak (PNBP), Pusat Data dan Informasi (PUSDAINFO), Jurusan/Prodi/Fakultas, Subagian Akademik Pascasarjana, dan petugas bank yang ditunjuk Bank BNI.
+
+2.  **Biro Umum, Keuangan dan Kepegawaian (BUKK).**
+
+    Biro Umum, Keuangan, dan Kepegawaian (BUKK) Universitas Sultan Ageng Tirtayasa melaksanakan tugasnya sebagai biro yang menangani bidang keuangan melalui Subbagian Penerimaan Negara Bukan Pajak (PNBP) yang ditugaskan melayani mahasiswa yang melakukan Permohonan Pindah Kuliah dari Untirta ke Perguruan Tinggi lain dengan mengeluarkan surat keterangan bebas SPP/UKT / bebas Administrasi Keuangan, mendokumentasikan laporan, dan melakukan koordinasi dengan Subbagian Registrasi dan Statistik, Pusat Data dan Informasi (PUSDAINFO), Jurusan/Prodi/Fakultas, Subbagian Akademik Pascasarjana, dan petugas bank yang ditunjuk yaitu Bank BNI.
+
+3.  **Pusat Data dan Informasi (PUSDAINFO).**
+
+    a.  Pusat Data dan Informasi (**PUSDAINFO)** menerima data mahasiswa yang melakukan Pindah Kuliah dari Untirta ke Perguruan Tinggi lain yaitu merubah status/ menghapus data mahasiswa.
+    b.  Mendokumentasikan laporan.
+    c.  Melaksanakan koordinasi dengan Subbagian Penerimaan Negara Bukan Pajak (PNBP), Subbagian Registrasi dan Statistik, Subbagian Akademik Pascasarjana, Jurusan/Program Studi, Fakultas, dan petugas bank yang ditunjuk yaitu Ban BNI.
+
+4.  **Jurusan/Program Studi/Fakultas/Pascasarjana.**
+
+    a.  Jurusan/ProgramStudi/Fakultas/Pascasarjanarekomendasikan/menyetujui permohonan pindah kuliah dari Untirta ke Perguruan Tinggi lain.
+    b.  Mendokumentasikan laporan.
+
+5.  **Perpustakaan Fakultas dan Universitas**
+
+    Menerbitkan Surat keterangan tidak memiliki Pinjaman Buku/Bebas Pustaka.
+
+![Flow Chart: Pindah ke Perguruan Tinggi Lain](static/FC Pindah PT.png)
