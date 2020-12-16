@@ -3,9 +3,9 @@
 Registrasi merupakan prosedur awal bagi mahasiswa baru Universitas Sultan Ageng Tirtayasa. Mahasiswa Universitas Sultan Ageng Tirtayasa adalah mahasiswa yang telah menyelesaikan ketentuan dan prosedur yang berlaku. Pada prosesnya prosedur ini melibatkan 6 (enam) entitas, yaitu:
 
 1.  Mahasiswa.
-2.  Subbagian Registrasi & Statistik/BAKP.
-3.  Subbagian Kemahasiswaan/BAKP.
-4.  Subbagian PNBP/BUKK.
+2.  Subbagian Registrasi dan Statistik - BAKP.
+3.  Subbagian Kemahasiswaan - BAKP.
+4.  Subbagian PNBP - BUKK.
 5.  Pusat Data dan Informasi (PUSDAINFO).
 6.  Jurusan/Program Studi/Fakultas/Pascasarjana.
 
